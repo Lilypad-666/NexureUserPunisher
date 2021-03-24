@@ -1,0 +1,11 @@
+name: NexureUserPunisher
+main: com.star.NexureUserPunisher.Main
+version: 1.0
+api-version: 1.16
+commands:
+   report:
+      description: Allows anyone to report another user
+      permission: nexureuserpunisher.report
+   punish:
+      description: Opens the punishment menu of the given user
+      permission: nexureuserpunisher.punish
